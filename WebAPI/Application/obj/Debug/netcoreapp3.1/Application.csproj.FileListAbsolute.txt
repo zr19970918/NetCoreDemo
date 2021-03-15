@@ -1,0 +1,16 @@
+F:\测试练习\NetCoreAPI\WebAPI\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+F:\测试练习\NetCoreAPI\WebAPI\Application\bin\Debug\netcoreapp3.1\Application.dll
+F:\测试练习\NetCoreAPI\WebAPI\Application\bin\Debug\netcoreapp3.1\Application.pdb
+F:\测试练习\NetCoreAPI\WebAPI\Application\bin\Debug\netcoreapp3.1\Common.dll
+F:\测试练习\NetCoreAPI\WebAPI\Application\bin\Debug\netcoreapp3.1\EFCore.dll
+F:\测试练习\NetCoreAPI\WebAPI\Application\bin\Debug\netcoreapp3.1\Model.dll
+F:\测试练习\NetCoreAPI\WebAPI\Application\bin\Debug\netcoreapp3.1\Common.pdb
+F:\测试练习\NetCoreAPI\WebAPI\Application\bin\Debug\netcoreapp3.1\EFCore.pdb
+F:\测试练习\NetCoreAPI\WebAPI\Application\bin\Debug\netcoreapp3.1\Model.pdb
+F:\测试练习\NetCoreAPI\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+F:\测试练习\NetCoreAPI\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+F:\测试练习\NetCoreAPI\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+F:\测试练习\NetCoreAPI\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+F:\测试练习\NetCoreAPI\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+F:\测试练习\NetCoreAPI\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.dll
+F:\测试练习\NetCoreAPI\WebAPI\Application\obj\Debug\netcoreapp3.1\Application.pdb

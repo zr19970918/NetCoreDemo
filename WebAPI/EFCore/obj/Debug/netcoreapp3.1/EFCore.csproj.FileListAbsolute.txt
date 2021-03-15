@@ -1,0 +1,12 @@
+F:\测试练习\NetCoreAPI\WebAPI\EFCore\bin\Debug\netcoreapp3.1\EFCore.deps.json
+F:\测试练习\NetCoreAPI\WebAPI\EFCore\bin\Debug\netcoreapp3.1\EFCore.dll
+F:\测试练习\NetCoreAPI\WebAPI\EFCore\bin\Debug\netcoreapp3.1\EFCore.pdb
+F:\测试练习\NetCoreAPI\WebAPI\EFCore\bin\Debug\netcoreapp3.1\Model.dll
+F:\测试练习\NetCoreAPI\WebAPI\EFCore\bin\Debug\netcoreapp3.1\Model.pdb
+F:\测试练习\NetCoreAPI\WebAPI\EFCore\obj\Debug\netcoreapp3.1\EFCore.csprojAssemblyReference.cache
+F:\测试练习\NetCoreAPI\WebAPI\EFCore\obj\Debug\netcoreapp3.1\EFCore.AssemblyInfoInputs.cache
+F:\测试练习\NetCoreAPI\WebAPI\EFCore\obj\Debug\netcoreapp3.1\EFCore.AssemblyInfo.cs
+F:\测试练习\NetCoreAPI\WebAPI\EFCore\obj\Debug\netcoreapp3.1\EFCore.csproj.CoreCompileInputs.cache
+F:\测试练习\NetCoreAPI\WebAPI\EFCore\obj\Debug\netcoreapp3.1\EFCore.csproj.CopyComplete
+F:\测试练习\NetCoreAPI\WebAPI\EFCore\obj\Debug\netcoreapp3.1\EFCore.dll
+F:\测试练习\NetCoreAPI\WebAPI\EFCore\obj\Debug\netcoreapp3.1\EFCore.pdb

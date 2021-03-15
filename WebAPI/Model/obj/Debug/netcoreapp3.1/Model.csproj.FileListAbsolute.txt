@@ -1,0 +1,9 @@
+F:\测试练习\NetCoreAPI\WebAPI\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+F:\测试练习\NetCoreAPI\WebAPI\Model\bin\Debug\netcoreapp3.1\Model.dll
+F:\测试练习\NetCoreAPI\WebAPI\Model\bin\Debug\netcoreapp3.1\Model.pdb
+F:\测试练习\NetCoreAPI\WebAPI\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+F:\测试练习\NetCoreAPI\WebAPI\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+F:\测试练习\NetCoreAPI\WebAPI\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+F:\测试练习\NetCoreAPI\WebAPI\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+F:\测试练习\NetCoreAPI\WebAPI\Model\obj\Debug\netcoreapp3.1\Model.dll
+F:\测试练习\NetCoreAPI\WebAPI\Model\obj\Debug\netcoreapp3.1\Model.pdb
